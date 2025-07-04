@@ -33,7 +33,7 @@ Documenting my learning journey through writeups, lab notes, and CTFs.<br>
 
 📌 [`redteam-learning`](https://github.com/kagenoire/redteam-learning)  
 A logbook of my red team practice, tools, and exploitation notes.  
-From basic recon to custom scripts — every step documented.
+From basic recon to custom scripts every step documented.
 
 ---
 
