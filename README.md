@@ -108,6 +108,27 @@ Primary_Labs:
 
 ---
 
+## 🎮 **INTERACTIVE HACKING SIMULATOR**
+*Test your red team skills! Can you hack into the system?*
+
+<div align="center">
+  
+[![Hacking Simulator](https://img.shields.io/badge/🎯_PLAY_NOW-HACKING_SIMULATOR-red?style=for-the-badge&logo=hackerone&logoColor=white)](https://kagenoire-hacking-sim.netlify.app)
+
+**Click above to play the interactive hacking game!**
+*Works on both mobile and desktop*
+
+</div>
+
+### 🕹️ **Game Features:**
+- **🔍 Network Scanning** - Discover open ports and services
+- **💻 Terminal Interface** - Real hacking commands
+- **🎯 Multiple Targets** - Different difficulty levels
+- **🏆 Achievement System** - Unlock red team badges
+- **📱 Mobile Friendly** - Touch-optimized controls
+
+---
+
 ## 🎬 **OPERATOR MINDSET**
 
 <div align="center">
