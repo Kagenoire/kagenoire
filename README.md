@@ -40,7 +40,7 @@ From basic recon to custom scripts — every step documented.
 ## 🛰️ Contact & Profiles
 
 - GitHub: [@kagenoire](https://github.com/kagenoire)  
-- Bugcrowd: [(https://bugcrowd.com/kagenoire)]  
+- Bugcrowd: [@kagenoire](https://bugcrowd.com/kagenoire)  
 
 ---
 
