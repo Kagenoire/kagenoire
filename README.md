@@ -1,15 +1,23 @@
-# Hi, I'm Kagenoire
+<h1 align="center"><b><span style="color:#b30059">Hi, I'm Kagenoire</span></b></h1>
 
-Cybersecurity learner focused on offensive security and red teaming.  
-Documenting my learning journey through writeups, lab notes, and CTFs.  
-Always watching. Always learning.
+<p align="center">
+Cybersecurity learner focused on offensive security and red teaming.<br>
+Documenting my learning journey through writeups, lab notes, and CTFs.<br>
+<i><b>Always watching. Always learning.</b></i>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/kagenoire?label=Follow&style=social)](https://github.com/kagenoire)
-[![RedTeam-Learning](https://img.shields.io/badge/Repo-RedTeam--Learning-blueviolet)](https://github.com/kagenoire/redteam-learning)
+<p align="center">
+  <a href="https://github.com/kagenoire">
+    <img src="https://img.shields.io/github/followers/kagenoire?label=Follow&style=social" />
+  </a>
+  <a href="https://github.com/kagenoire/redteam-learning">
+    <img src="https://img.shields.io/badge/Repo-RedTeam--Learning-blueviolet" />
+  </a>
+</p>
 
 ---
 
-## 🔧 Currently Learning
+## 🧪 Currently Learning
 
 - Linux & Terminal Mastery  
 - Nmap, Gobuster, Dirb  
@@ -31,9 +39,10 @@ From basic recon to custom scripts — every step documented.
 
 ## 🧠 GitHub Stats
 
-![Kagenoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagenoire&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagenoire&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kagenoire&show_icons=true&theme=tokyonight&hide=prs&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagenoire&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
@@ -44,4 +53,4 @@ From basic recon to custom scripts — every step documented.
 
 ---
 
-> "I don't break systems. I show you how they were already broken."
+<p align="center"><i>"I don't break systems. I show you how they were already broken."</i></p>
