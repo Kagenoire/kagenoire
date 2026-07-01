@@ -19,8 +19,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kagenoire&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_rank=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagenoire&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" width="38%" />
+  <img src="https://streak-stats.demolab.com?user=Kagenoire&hide_border=true&background=0d1117&ring=ffffff&fire=888888&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=444444&stroke=0d1117" width="55%" />
 </div>
 
 ---
